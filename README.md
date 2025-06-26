@@ -1,5 +1,7 @@
 # Buddy - Bluesky Bot Starter Kit
 
+**Version:** v1.0.0 (Generation 1: Foundation)
+
 A simple Bluesky bot that monitors mentions and only replies to followers.
 
 ## Features
@@ -27,7 +29,7 @@ A simple Bluesky bot that monitors mentions and only replies to followers.
 
 4. Run the bot:
    ```bash
-   python buddy.py
+   python buddy-bsky-bot.py
    ```
 
 ## Configuration
@@ -51,3 +53,24 @@ Copyleft - Stuxnet Studios 2025
 - Never commit your `.env` file to version control
 - Keep your app password secure
 - Regularly rotate your app passwords
+
+## Version History
+
+### Generation 1: Foundation (v1.x.x)
+- **v1.0.0** - Initial release: Basic skeleton with core functionality
+  - Bluesky authentication via app passwords
+  - Mention monitoring and notification parsing
+  - Follower verification system
+  - Simple reply mechanism
+  - Extensible codebase structure
+
+### Future Generations
+- **Generation 2 (v2.x.x)** - Intelligence Layer *(Planned)*
+  - AI-powered response generation
+  - Content analysis and sentiment detection
+  - Advanced conversation handling
+
+- **Generation 3 (v3.x.x)** - Multi-Platform Era *(Planned)*
+  - Cross-platform social media integration
+  - Unified dashboard and analytics
+  - Advanced automation features
