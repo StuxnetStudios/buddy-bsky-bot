@@ -56,7 +56,7 @@ Copyleft - Stuxnet Studios 2025
 
 ## Version History
 
-### Generation 1: Foundation (v1.x.x)
+### Generation 1: Foundation (v1.x.x) - CURRENT
 - **v1.0.0** - Initial release: Basic skeleton with core functionality
   - Bluesky authentication via app passwords
   - Mention monitoring and notification parsing
@@ -64,13 +64,49 @@ Copyleft - Stuxnet Studios 2025
   - Simple reply mechanism
   - Extensible codebase structure
 
-### Future Generations
-- **Generation 2 (v2.x.x)** - Intelligence Layer *(Planned)*
-  - AI-powered response generation
-  - Content analysis and sentiment detection
-  - Advanced conversation handling
+- **v1.1.x** - Enhanced Foundation *(Planned)*
+  - Better error handling & logging
+  - Configuration file support
+  - Rate limiting protection
+  - Notification filtering (mentions only)
+  - Reply cooldown system
 
-- **Generation 3 (v3.x.x)** - Multi-Platform Era *(Planned)*
-  - Cross-platform social media integration
-  - Unified dashboard and analytics
-  - Advanced automation features
+### Generation 2: Intelligence Layer (v2.x.x) - PLANNED
+- **v2.0.0** - AI Integration
+  - Microsoft Copilot API integration
+  - Context-aware responses
+  - Personality configuration
+  - Custom response templates
+  - Sentiment analysis
+
+- **v2.1.x** - Advanced Conversations
+  - Thread handling & context memory
+  - Multi-turn conversations
+  - User preference learning
+  - Response quality scoring
+
+### Generation 3: Multi-Platform Era (v3.x.x) - IF COMMERCIAL
+- **v3.0.0** - Platform Expansion
+  - Twitter/X integration
+  - Mastodon support
+  - Cross-platform posting
+  - Unified follower management
+
+- **v3.1.x** - Analytics & Dashboard
+  - Web-based admin panel
+  - Interaction analytics
+  - Performance metrics
+  - User engagement tracking
+
+### Generation 4: Automation & Scale (v4.x.x) - IF SUCCESSFUL
+- **v4.0.0** - Advanced Automation
+  - Scheduled content posting
+  - Keyword-triggered responses
+  - Auto-moderation features
+  - Bulk follower management
+
+- **v4.1.x** - Enterprise Features
+  - Multi-bot management
+  - Team collaboration tools
+  - Advanced security features
+  - API for third-party integrations
